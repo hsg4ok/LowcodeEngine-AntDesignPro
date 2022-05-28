@@ -57,7 +57,7 @@ npm test
 
 ### 截图  
 
-![Ant Design pro 控制台](https://github.com/hsg4ok/LowcodeEngine-AntDesignPro/blob/main/WX20220528-144059%402x.png)
+![Ant Design pro 控制台](/WX20220528-144059%402x.png)
 
 ![低代码编辑器](https://github.com/hsg4ok/LowcodeEngine-AntDesignPro/blob/main/WX20220528-144129@2x.png)
 
